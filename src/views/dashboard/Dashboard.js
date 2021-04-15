@@ -540,7 +540,7 @@ const Dashboard = () => {
                     </td>
                     <td>
                       <div className="small text-muted">Last login</div>
-                      <strong>Yesterday</strong>
+                      <strong>Now</strong>
                     </td>
                   </tr>
                 </tbody>
